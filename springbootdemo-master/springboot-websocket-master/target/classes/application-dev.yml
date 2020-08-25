@@ -1,0 +1,43 @@
+
+spring:
+  redis:
+    cluster:
+      #设置key的生存时间，当key过期时，它会被自动删除；
+      expire-seconds: 120
+      #设置命令的执行时间，如果超过这个时间，则报错;
+      command-timeout: 5000
+      #设置redis集群的节点信息，其中namenode为域名解析，通过解析域名来获取相应的地址;
+      nodes: namenode22:6379,datanode23:6379,datanode24:6379,datanode25:6379,datanode26:6379,datanode27:6379
+  application:
+  #定义应用名称，即服务名称
+    name: websocket-server
+  mvc:
+    view:
+      suffix: .jsp
+      prefix: /WEB-INF/jsp/
+
+#数据库配置
+  datasource:
+    url: jdbc:mysql://localhost:3306/xiaosai?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: 123456
+    # 使用druid数据源
+    #type: com.alibaba.druid.pool.DruidDataSource
+  main:
+    allow-bean-definition-overriding: true
+#eureka配置
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:5060/eureka/eureka
+server:
+  servlet:
+    #  定义项目的访问访问路径
+    context-path: /websocket
+    #定义端口号
+  port: 7004
+  ssl:
+    key-store: classpath:fzulyt.fun.jks
+    key-store-password: 4y004x18ha2
+
+name: name

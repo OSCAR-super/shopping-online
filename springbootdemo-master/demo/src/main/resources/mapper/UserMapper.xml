@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.example.springboot.demo.dao.UserMapper">
+    <select id="getTag" resultType="com.example.springbootdemoentity.entity.Product">
+        SELECT * from product where productTag like CONCAT(CONCAT('%', #{productTag}), '%')
+    </select>
+    <select id="getProduct" resultType="com.example.springbootdemoentity.entity.Product">
+        SELECT * from product where productName like CONCAT(CONCAT('%', #{productName}), '%')
+    </select>
+<insert id="setOrder">
+    INSERT INTO orderr (orderId,orderState,orderTime,Id,face,name,time)
+        values(#{orderId},"no",#{orderTime},#{Id},#{face},#{name},#{time})
+</insert>
+    <select id="getOrderId" resultType="com.example.springbootdemoentity.entity.Order">
+        SELECT * from orderr where orderId = #{orderId}
+    </select>
+    <select id="getOrder" resultType="com.example.springbootdemoentity.entity.Order">
+        SELECT * from orderr where Id=#{Id}
+    </select>
+    <select id="getP" resultType="com.example.springbootdemoentity.entity.Product">
+        SELECT * from product where productId=#{productId}
+    </select>
+    <update id="achieveOrderId">
+         UPDATE orderr SET orderState = "yes" WHERE orderId = #{orderId}
+     </update>
+    <update id="concelOrderId">
+         UPDATE orderr SET orderState = "concel" WHERE orderId = #{orderId}
+     </update>
+    <update id="consume">
+         UPDATE product SET productSurplus = #{productSurplus} WHERE productPrice = #{productPrice}
+     </update>
+    <select id="findProductImage" resultType="com.example.springbootdemoentity.entity.image">
+        SELECT * from image where productImage=#{productId}
+    </select>
+</mapper>

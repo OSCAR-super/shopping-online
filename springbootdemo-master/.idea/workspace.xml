@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springbootdemo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65ff72fd-9d70-4828-bd16-ca3b9243f435" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-product/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-entity/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/desing-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-test/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-foundation/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-rabbitmq/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-websocket-master/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-token/target/" />
+    <ignored path="$PROJECT_DIR$/springbootdemo-thread/target/" />
+    <ignored path="$PROJECT_DIR$/elastic-search/target/" />
+    <ignored path="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/config/WebsocketConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendall/MyWebsocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="153" column="33" lean-forward="true" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="131" column="11" lean-forward="true" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/WebsocketDemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1140">
+              <caret line="50" column="61" lean-forward="true" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+              <folding>
+                <element signature="e#816#1356#0" expanded="true" />
+                <element signature="e#1355#1356#0" expanded="true" />
+                <element signature="e#2096#2097#0" expanded="true" />
+                <element signature="e#2185#2186#0" expanded="true" />
+                <element signature="e#2369#2370#0" expanded="true" />
+                <element signature="e#2444#2445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendone/MyOneToOneServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendone/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-69">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>location</find>
+      <find>UserMapper</find>
+      <find>studentService.findSchoolName</find>
+      <find>upload.parseRequest</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/springboot/demo/mq/TopicBConsumer.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/springboot/demo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/springboot/demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/demo/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/springboot/demo/config/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/springboot/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/Spring Boot Rabbit MQ/demo/src/main/java/com/lyt/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lyt/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/lyt/demo/SpringbootdemoTreadApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/mq/DemoQueueConsumer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/SpringbootdemoTreadApplication.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/demo.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/RabbitMqController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/ThreadPoolController.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-entity/src/main/java/com/example/springbootdemoentity/entity/OrderProduct.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/config/webConfig/CsrfConfig.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/AesUtil.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/HttpRequest.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/SpringbootdemoConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/EmailController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/RabbitMqController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/RabbitProducer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutBConsumer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutCConsumer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutAConsumer.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/service/UserService.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springbootdemo-entity/src/main/java/com/example/springbootdemoentity/entity/Order.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/TopicBConsumer.java" />
+        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/service/UserService.java" />
+        <option value="$PROJECT_DIR$/springboot-websocket-master/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendone/MyOneToOneServer.java" />
+        <option value="$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/WebsocketDemoApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-websocket-master/src/main/resources/application-dev.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springbootdemo-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springbootdemo-consumer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springbootdemo-thread" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="mq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gj" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gj" type="462c0819:PsiDirectoryNode" />
+              <item name="sendall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gj" type="462c0819:PsiDirectoryNode" />
+              <item name="sendone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-websocket-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="webConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="Email" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="execption" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="filterTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoentity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoentity" type="462c0819:PsiDirectoryNode" />
+              <item name="repeatCommitConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-entity" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemoentity" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springbootdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springbootdemo-master" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemo-product" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebSocketDemo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.redisPlugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.springbootdemoconsumer.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\springboot-websocket-master\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\demo\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\springbootdemo-consumer\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\demo\src\main\resources\mapper" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\demo\src\main\java\com\example\springboot\demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lyt.demo" />
+      <recent name="com.lyt.demo.config" />
+      <recent name="com.example.springbootdemoconsumer.filterTest" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master\demo\src\main\resources" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springbootdemo-master" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.35239568" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootdemoConsumerApplication">
+    <configuration name="BlockQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootdemothread.BlockQueueTest" />
+      <module name="springbootdemo-thread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootdemothread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootdemorabbitmq.rabbitMQDemo01.util.ConnectionUtil" />
+      <module name="springbootdemo-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbootdemorabbitmq.rabbitMQDemo01.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.demo.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\java\jre" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesingPatternApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="desing-pattern" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.desingpattern.DesingPatternApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="elastic-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.elasticsearch.ElasticSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemoconsumer.SpringbootdemoConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemoeureka.SpringbootdemoEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoFilterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-filter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemofilter.SpringbootdemoFilterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoFoundationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-foundation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemofoundation.SpringbootdemoFoundationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemoproduct.SpringbootdemoProductApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemotest.SpringbootdemoTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoTokenApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-token" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemotoken.SpringbootdemoTokenApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootdemoTreadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springbootdemo-thread" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springbootdemothread.SpringbootdemoTreadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsocketDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="websocket-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gj.WebsocketDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BlockQueueTest" />
+      <item itemvalue="Application.ConnectionUtil" />
+      <item itemvalue="Spring Boot.DesingPatternApplication" />
+      <item itemvalue="Spring Boot.ElasticSearchApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoConsumerApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoEurekaApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoFilterApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoFoundationApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoProductApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoTestApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoTokenApplication" />
+      <item itemvalue="Spring Boot.WebsocketDemoApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.SpringbootdemoTreadApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectionUtil" />
+        <item itemvalue="Application.BlockQueueTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65ff72fd-9d70-4828-bd16-ca3b9243f435" name="Default Changelist" comment="" />
+      <created>1587469491713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587469491713</updated>
+      <workItem from="1587469494256" duration="17408000" />
+      <workItem from="1587525861804" duration="2876000" />
+      <workItem from="1587529158745" duration="1321000" />
+      <workItem from="1587530718732" duration="329000" />
+      <workItem from="1587531083596" duration="70000" />
+      <workItem from="1587531196454" duration="924000" />
+      <workItem from="1587532368207" duration="57000" />
+      <workItem from="1587532459113" duration="154000" />
+      <workItem from="1587532656511" duration="459000" />
+      <workItem from="1587540475145" duration="593000" />
+      <workItem from="1587541101983" duration="3206000" />
+      <workItem from="1587569639980" duration="2475000" />
+      <workItem from="1587621696311" duration="783000" />
+      <workItem from="1587632480209" duration="5244000" />
+      <workItem from="1587655252710" duration="312000" />
+      <workItem from="1587657568552" duration="6314000" />
+      <workItem from="1589201160489" duration="356000" />
+      <workItem from="1589202267236" duration="1700000" />
+      <workItem from="1589204427170" duration="134696000" />
+      <workItem from="1592592442062" duration="688000" />
+      <workItem from="1592593582428" duration="155454000" />
+      <workItem from="1594394559445" duration="62203000" />
+      <workItem from="1595508211312" duration="3015000" />
+      <workItem from="1595512223547" duration="32790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringbootdemoFoundationApplicationTests - 2020.04.22 at 15h 59m 55s.xml">
+      <configuration name="SpringbootdemoFoundationApplicationTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="433427000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2526475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20458265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27332243" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.35681817" side_tool="true" weight="0.22094926" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.6431818" visible="true" weight="0.47954175" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32405892" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3570348" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.022692889" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Database" order="11" weight="0.022727273" />
+      <window_info anchor="right" id="Redis Explorer" order="12" visible="true" weight="0.1172466" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springbootdemo-product/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/AesUtil.java" />
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/springbootdemo-entity/src/main/java/com/example/springbootdemoentity/entity/OrderProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-entity/src/main/java/com/example/springbootdemoentity/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/keystorePass.txt" />
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/keystorePass.txt" />
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/TopicCConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="160" column="21" selection-start-line="156" selection-start-column="8" selection-end-line="160" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desing-pattern/src/main/java/com/example/desingpattern/DesingPatternApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic-search/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elastic-search/src/main/java/com/example/elasticsearch/ElasticSearchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="747" column="19" selection-start-line="747" selection-start-column="19" selection-end-line="747" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/CheckCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/SpringbootdemoConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="e#1512#2052#0" expanded="true" />
+            <element signature="e#2051#2052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/EmailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/DemoQueueConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/TopicAConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/RabbitMqController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/HttpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutAConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutBConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/FanoutCConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="e#2766#2767#0" expanded="true" />
+            <element signature="e#2798#2799#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-entity/src/main/java/com/example/springbootdemoentity/entity/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
+            <element signature="e#1209#1210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/RabbitProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="38" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1321">
+          <caret line="153" column="40" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/mq/TopicBConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="35" column="68" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/springboot/demo/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="27" column="57" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="131" column="11" lean-forward="true" selection-start-line="131" selection-start-column="11" selection-end-line="131" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/WebsocketDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="50" column="61" lean-forward="true" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+          <folding>
+            <element signature="e#816#1356#0" expanded="true" />
+            <element signature="e#1355#1356#0" expanded="true" />
+            <element signature="e#2096#2097#0" expanded="true" />
+            <element signature="e#2185#2186#0" expanded="true" />
+            <element signature="e#2369#2370#0" expanded="true" />
+            <element signature="e#2444#2445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendone/MyOneToOneServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendone/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/config/WebsocketConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-websocket-master/src/main/java/com/gj/sendall/MyWebsocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootdemo-consumer/src/main/java/com/example/springbootdemoconsumer/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="153" column="33" lean-forward="true" selection-start-line="153" selection-start-column="33" selection-end-line="153" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>springbootdemo:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springbootdemo-test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

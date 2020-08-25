@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desing-pattern/desing-pattern.iml" filepath="$PROJECT_DIR$/desing-pattern/desing-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-search/elastic-search.iml" filepath="$PROJECT_DIR$/elastic-search/elastic-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo.iml" filepath="$PROJECT_DIR$/springbootdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-consumer/springbootdemo-consumer.iml" filepath="$PROJECT_DIR$/springbootdemo-consumer/springbootdemo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-entity/springbootdemo-entity.iml" filepath="$PROJECT_DIR$/springbootdemo-entity/springbootdemo-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-eureka/springbootdemo-eureka.iml" filepath="$PROJECT_DIR$/springbootdemo-eureka/springbootdemo-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-filter/springbootdemo-filter.iml" filepath="$PROJECT_DIR$/springbootdemo-filter/springbootdemo-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-foundation/springbootdemo-foundation.iml" filepath="$PROJECT_DIR$/springbootdemo-foundation/springbootdemo-foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-product/springbootdemo-product.iml" filepath="$PROJECT_DIR$/springbootdemo-product/springbootdemo-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-test/springbootdemo-test.iml" filepath="$PROJECT_DIR$/springbootdemo-test/springbootdemo-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-thread/springbootdemo-thread.iml" filepath="$PROJECT_DIR$/springbootdemo-thread/springbootdemo-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootdemo-token/springbootdemo-token.iml" filepath="$PROJECT_DIR$/springbootdemo-token/springbootdemo-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-websocket-master/websocket-demo.iml" filepath="$PROJECT_DIR$/springboot-websocket-master/websocket-demo.iml" />
+    </modules>
+  </component>
+</project>
