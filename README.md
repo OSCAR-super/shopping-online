@@ -2,7 +2,7 @@
 author：Oscar  
 后台网址入口：https://fzulyt.fun  
 小程序码：  
-![image](https://github.com/OSCAR-super/shopping-online/李先生的冰箱.jpg)  
+![image](https://github.com/OSCAR-super/shopping-online/blob/master/%E6%9D%8E%E5%85%88%E7%94%9F%E7%9A%84%E5%86%B0%E7%AE%B1.jpg)  
 希望你能喜欢  
 # 简介 
 本项目包括websocket部分和demo部分  
