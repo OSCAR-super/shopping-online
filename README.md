@@ -1,6 +1,8 @@
 # Anonymous-question-box 
 author：Oscar  
 后台网址入口：https://fzulyt.fun  
+小程序码：  
+![image](https://github.com/OSCAR-super/shopping-online/李先生的冰箱.jpg)  
 希望你能喜欢  
 # 简介 
 本项目包括websocket部分和demo部分  
