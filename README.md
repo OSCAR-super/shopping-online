@@ -11,4 +11,7 @@ demo部分用于支持项目的基本需求
 框架中内嵌了ws的websocket实现项目内的实时通讯  
 嵌入了rabbitmq队列，解决对mysql高强度读写时的高并发需求问题  
 redis在这个高即时性的项目中负责读写即时性的信息，提高性能  
-
+项目中使用了springsecurity来进行安全保护  
+ * ### 实时订单
+ 项目把websocket单独分开，
+ 
